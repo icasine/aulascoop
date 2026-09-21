@@ -1,0 +1,393 @@
+[
+  {
+    "id": "coop-aula-01",
+    "secoes": [
+      {
+        "numero": 1,
+        "titulo": "Cooperativismo, cooperativa e o ato de cooperar",
+        "rotulo": "Conceitos fundamentais",
+        "cor": "petroleo-escuro",
+        "tags": [],
+        "evidenciar": false,
+        "blocos": [
+          {
+            "tipo": "card",
+            "titulo": "Cooperativismo",
+            "texto": "Cooperativismo é um sistema econômico e social que se baseia na cooperação e na propriedade conjunta dos meios de produção e consumo pelos seus membros. O movimento tem como objetivo promover mudanças positivas e sustentáveis na sociedade, resgatando valores morais como autoajuda, responsabilidade moral, democracia, igualdade, equidade e solidariedade.\nCooperar, nesse contexto, significa trabalhar em conjunto por objetivos comuns, com participação ativa, compartilhamento equitativo de responsabilidades e benefícios, e gestão democrática — na qual as decisões são tomadas coletivamente, com igualdade de voz e voto entre os membros.",
+            "tags": [
+              "conceitos",
+              "cooperativismo"
+            ]
+          },
+          {
+            "tipo": "card",
+            "titulo": "Cooperativa",
+            "texto": "Cooperativa é uma associação autônoma de pessoas unidas voluntariamente para atender suas necessidades econômicas, sociais e culturais comuns por meio de uma empresa de propriedade conjunta e controlada democraticamente. Diferencia-se de uma empresa tradicional porque o cooperado é, ao mesmo tempo, dono, usuário e beneficiário da atividade — e não um simples cliente ou acionista.",
+            "tags": [
+              "conceitos",
+              "cooperativa"
+            ]
+          },
+          {
+            "tipo": "referencia",
+            "titulo": "Veja no glossário",
+            "base": "glossario",
+            "ids": [
+              "cooperar",
+              "cooperado",
+              "autogestao"
+            ]
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "titulo": "O indivíduo, a sociedade e as instituições",
+        "rotulo": "Sociologia da cooperação",
+        "cor": "petroleo",
+        "tags": [],
+        "evidenciar": false,
+        "blocos": [
+          {
+            "tipo": "card",
+            "titulo": "Integração do indivíduo na sociedade",
+            "texto": "O indivíduo se integra à sociedade por meio de diversos laços: família, amizades, trabalho, cultos religiosos, escolas, cooperativas e organizações diversas. Essa integração é parte fundamental da compreensão do próprio indivíduo — conhecemos nossas características a partir da existência do outro.",
+            "tags": [
+              "sociologia"
+            ]
+          },
+          {
+            "tipo": "citacao",
+            "texto": "Uma mina de ouro em uma ilha deserta vale menos do que uma fonte de água e comida. É a existência de relações sociais que atribui novo valor ao ouro.",
+            "tags": [
+              "sociologia"
+            ]
+          },
+          {
+            "tipo": "card",
+            "titulo": "Instituições",
+            "texto": "Instituições são estruturas ou mecanismos de ordem social que regulam o comportamento dos indivíduos dentro de uma comunidade. São sistemas estabelecidos de normas e regras que orientam as interações humanas e moldam expectativas, podendo ser formais (leis, sistemas educacionais, governos) ou informais (costumes, tradições, normas sociais). Estado, mercado, família, igreja e cooperativas são exemplos de instituições.",
+            "tags": [
+              "sociologia",
+              "instituições"
+            ]
+          },
+          {
+            "tipo": "card",
+            "titulo": "Individualismo",
+            "texto": "O individualismo se manifesta quando um indivíduo ou uma instituição age privilegiando seus próprios interesses em detrimento do equilíbrio social — por exemplo, quando uma empresa polui um rio usado para irrigação, ou pratica preços abusivos por deter posição dominante de mercado. O desafio permanente é conciliar o respeito às diferenças individuais com a vida em coletividade — questão central para qualquer sistema baseado na cooperação.",
+            "tags": [
+              "sociologia",
+              "individualismo"
+            ]
+          }
+        ]
+      },
+      {
+        "numero": 3,
+        "titulo": "Da Revolução Industrial a Rochdale",
+        "rotulo": "História do cooperativismo",
+        "cor": "laranja",
+        "tags": [],
+        "evidenciar": false,
+        "blocos": [
+          {
+            "tipo": "card",
+            "titulo": "Revolução Industrial",
+            "texto": "A Revolução Industrial foi um processo de transformações econômicas, sociais e tecnológicas iniciado na Inglaterra, caracterizado pela substituição do trabalho artesanal pela produção mecanizada nas fábricas. Esse período marcou a transição da economia agrária para o capitalismo industrial, impulsionando a urbanização, a divisão do trabalho e a intensificação das desigualdades sociais, especialmente entre as classes trabalhadoras.",
+            "tags": [
+              "história"
+            ]
+          },
+          {
+            "tipo": "card",
+            "titulo": "Origem como resposta social",
+            "texto": "O cooperativismo surgiu como resposta prática e solidária às condições adversas impostas aos trabalhadores durante a Revolução Industrial — exploração, pobreza e insegurança social. A experiência de Rochdale, na Inglaterra, é considerada o marco inicial do cooperativismo moderno: um grupo de operários fundou uma cooperativa de consumo baseada em autogestão, ajuda mútua e participação democrática, criando um modelo alternativo ao sistema econômico vigente.",
+            "tags": [
+              "história",
+              "rochdale"
+            ]
+          },
+          {
+            "tipo": "card",
+            "titulo": "Pioneiros de Rochdale",
+            "texto": "Em 1844, na cidade industrial de Rochdale, no norte da Inglaterra, 28 trabalhadores fundaram a Rochdale Equitable Pioneers Society, considerada o marco inaugural do cooperativismo moderno. Diante das precárias condições de trabalho e dos altos custos de vida, esses artesãos uniram-se para criar um armazém que oferecesse produtos básicos — como farinha, aveia, açúcar e manteiga — a preços acessíveis. O diferencial era a adoção de princípios como gestão democrática, participação econômica, educação, intercooperação e interesse pela comunidade. Cada cliente tornava-se membro e coproprietário, com direito a voz e voto.",
+            "fonte": "Fonte: ICA COOP",
+            "tags": [
+              "história",
+              "rochdale"
+            ]
+          },
+          {
+            "tipo": "referencia",
+            "titulo": "No calendário",
+            "base": "calendario",
+            "ids": [
+              "rochdale-1844"
+            ]
+          },
+          {
+            "tipo": "card",
+            "titulo": "Reconhecimento internacional",
+            "texto": "O potencial das cooperativas para enfrentar desafios globais — como desigualdade, pobreza e mudanças climáticas — já levou a Organização das Nações Unidas a declarar, mais de uma vez, um Ano Internacional das Cooperativas. Essas iniciativas buscam reforçar internacionalmente a importância do modelo cooperativo, incentivar políticas públicas de apoio ao setor, e consolidar seu papel na agenda global de desenvolvimento sustentável.",
+            "fonte": "Fonte: ONU; Sistema OCB",
+            "tags": [
+              "história",
+              "onu"
+            ]
+          },
+          {
+            "tipo": "card",
+            "titulo": "Origem do cooperativismo financeiro no mundo",
+            "texto": "O cooperativismo financeiro tem origem no século XIX, no contexto das dificuldades econômicas e sociais enfrentadas na Europa. A primeira cooperativa de crédito foi criada por Friedrich Wilhelm Raiffeisen, na Alemanha, em 1864 — voltada principalmente ao apoio de comunidades rurais, com responsabilidade ilimitada dos associados. Herman Schulze-Delitzsch foi pioneiro na fundação de cooperativas de crédito urbanas, chamadas \"bancos populares\". Já Luigi Luzzatti fundou, na Itália, um modelo que permitia a associação de indivíduos sem vínculo específico entre si, como moradores de um mesmo bairro. O cooperativismo financeiro rapidamente se espalhou por diversos países, servindo como alternativa mais justa e acessível ao crédito tradicional.",
+            "fonte": "PINHEIRO, Marcos Antonio Henriques. Cooperativas de crédito: história da evolução normativa no Brasil. Brasília/DF: BCB, 2008.",
+            "tags": [
+              "história",
+              "crédito"
+            ]
+          },
+          {
+            "tipo": "referencia",
+            "titulo": "Personagens no glossário",
+            "base": "glossario",
+            "ids": [
+              "friedrich-wilhelm-raiffeisen",
+              "herman-schulze-delitzsch",
+              "luigi-luzzatti"
+            ]
+          }
+        ]
+      },
+      {
+        "numero": 4,
+        "titulo": "5º — Educação, formação e informação",
+        "rotulo": "Princípio do cooperativismo enfatizado",
+        "cor": "dourado",
+        "tags": [],
+        "evidenciar": false,
+        "blocos": [
+          {
+            "tipo": "card",
+            "titulo": "O princípio",
+            "texto": "Este princípio enfatiza a responsabilidade das cooperativas em promover a educação e a formação de seus membros, representantes eleitos, gestores e funcionários, além de informar o público em geral sobre a natureza e os benefícios do cooperativismo. Sublinha a importância de capacitar os membros para que contribuam efetivamente para o desenvolvimento de suas cooperativas e para que estas sejam geridas de forma democrática e eficiente.",
+            "tags": [
+              "princípios",
+              "educação cooperativa"
+            ]
+          },
+          {
+            "tipo": "card",
+            "titulo": "Importância da formação cooperativista",
+            "texto": "A formação cooperativista é essencial para garantir que os membros de uma cooperativa compreendam seus direitos, deveres e o funcionamento do modelo cooperativo. Ela promove a consciência crítica, o fortalecimento dos princípios da cooperação e a qualificação para a gestão democrática, sendo um dos pilares para o desenvolvimento sustentável e a perenidade das cooperativas. Sem formação contínua, há risco de descaracterização e fragilidade institucional.",
+            "tags": [
+              "princípios",
+              "educação cooperativa"
+            ]
+          }
+        ]
+      },
+      {
+        "numero": 5,
+        "titulo": "Autoajuda e responsabilidade pessoal",
+        "rotulo": "Valor do cooperativismo abordado",
+        "cor": "verde",
+        "tags": [],
+        "evidenciar": false,
+        "blocos": [
+          {
+            "tipo": "card",
+            "titulo": "O valor",
+            "texto": "Este valor enfatiza a importância da autogestão, autodeterminação e autoconhecimento. Encoraja os membros da cooperativa a tomarem consciência de suas capacidades e responsabilidades dentro e fora da cooperativa, fomentando um senso de proatividade e contribuição pessoal para o desenvolvimento coletivo.",
+            "tags": [
+              "valores",
+              "autoajuda"
+            ]
+          },
+          {
+            "tipo": "citacao",
+            "texto": "O cooperativismo parte do reconhecimento de que a pessoa é capaz de mudar a própria realidade — e de que essa mudança está atrelada à cooperação: agir em conjunto para superar obstáculos que, sozinhos, os indivíduos não superariam.",
+            "tags": [
+              "valores",
+              "autoajuda"
+            ]
+          }
+        ]
+      },
+      {
+        "numero": 6,
+        "titulo": "Formação social, empresa e grupos",
+        "rotulo": "Vocabulário da Cooperação",
+        "cor": "petroleo-escuro",
+        "tags": [],
+        "evidenciar": false,
+        "blocos": [
+          {
+            "tipo": "card",
+            "titulo": "Formação social",
+            "texto": "A formação social é um conjunto interconectado de estruturas da personalidade, sistema social e cultura, que se reproduzem em conjunto.",
+            "fonte": "Sergio Scamuzzi. In: BOBBIO, Norberto (org.). Dicionário de Política. UnB, 1998.",
+            "tags": [
+              "vocabulário",
+              "sociologia"
+            ]
+          },
+          {
+            "tipo": "card",
+            "titulo": "Empresa",
+            "texto": "A empresa é uma forma de organização da atividade produtiva que visa à lucratividade e serve à sociedade por meio da produção de bens, criação de empregos e contribuição com tributos. A busca pelo lucro deve estar em harmonia com a responsabilidade social e os valores morais, promovendo a dignidade humana.",
+            "fonte": "KRUEGER, Guilherme Gomes (org.). Ato Cooperativo e seu adequado tratamento tributário. Mandamentos, 2004.",
+            "tags": [
+              "vocabulário",
+              "empresa"
+            ]
+          },
+          {
+            "tipo": "card",
+            "titulo": "Grupos",
+            "texto": "Os grupos sociais referem-se a conjuntos de pessoas que compartilham normas, valores e interações regulares, desempenhando papel crucial na estrutura da sociedade. Podem criar distinções entre \"nós\" e \"eles\" — in-groups, aos quais nos identificamos, e out-groups, dos quais não nos sentimos parte.",
+            "fonte": "SCHAEFER, Richard T. Fundamentos de sociologia. Grupo A, 2016.",
+            "tags": [
+              "vocabulário",
+              "sociologia"
+            ]
+          }
+        ]
+      },
+      {
+        "numero": 7,
+        "titulo": "Consumo",
+        "rotulo": "Ramo do cooperativismo",
+        "cor": "laranja",
+        "tags": [],
+        "evidenciar": false,
+        "blocos": [
+          {
+            "tipo": "card",
+            "titulo": "O ramo consumo",
+            "texto": "O ramo consumo tem origem histórica em 1844, na Inglaterra, quando trabalhadores se uniram para realizar compras coletivas e reduzir custos. Hoje, essas cooperativas continuam reunindo pessoas para adquirir produtos ou serviços — como os oferecidos por supermercados, farmácias, cooperativas educacionais e de turismo — buscando preços mais acessíveis, atendimento de qualidade e o fortalecimento da economia local.\nO ramo não se resume a supermercados. Uma cooperativa formada por pais de alunos que se organizam para contratar a prestação de serviço de professores, por exemplo, também é uma cooperativa de consumo: o que caracteriza o ramo não é o produto vendido, mas o fato de os consumidores se unirem para obter uma melhor prestação de serviço.",
+            "fonte": "Fonte: OCB, SOMOS COOP; Anuário Coop",
+            "tags": [
+              "ramos",
+              "consumo"
+            ]
+          },
+          {
+            "tipo": "card",
+            "titulo": "Do armazém de Rochdale ao supermercado moderno",
+            "texto": "A cooperativa fundada em Rochdale não se limitou a revender produtos: anos depois de sua criação, os pioneiros passaram a produzir os próprios insumos — construíram moinhos para fabricar farinha, em vez de comprá-la de terceiros. Essa lógica de organizar produtores e consumidores em uma mesma estrutura, oferecendo variedade de produtos em um único lugar, é reconhecida como uma das influências históricas do modelo de supermercado como o conhecemos hoje.",
+            "tags": [
+              "consumo",
+              "rochdale"
+            ]
+          },
+          {
+            "tipo": "card",
+            "titulo": "Quando a cooperação vira plataforma: o caso Uber",
+            "texto": "Plataformas digitais de serviços sob demanda reproduzem, em certa medida, a lógica de agregação que originou o cooperativismo: pessoas oferecendo um serviço são reunidas por uma estrutura comum que organiza oferta e demanda. A diferença essencial está no destino do resultado econômico gerado. Em uma cooperativa, a sobra do exercício retorna aos próprios cooperados, proporcionalmente às operações que realizaram. Em uma plataforma com fins lucrativos, o excedente é apropriado pelo capital que a controla.",
+            "tags": [
+              "consumo",
+              "plataformas",
+              "sobras"
+            ]
+          },
+          {
+            "tipo": "card",
+            "titulo": "Equiparação tributária e o declínio do ramo consumo no Brasil",
+            "texto": "O ramo consumo foi historicamente um dos mais expressivos do cooperativismo brasileiro. Uma mudança na legislação tributária equiparou as cooperativas de consumo às demais empresas do setor de varejo, fazendo com que passassem a recolher tributos nos mesmos moldes que uma empresa com finalidade lucrativa — apesar de sua natureza associativa e sem fins lucrativos. O efeito prático foi a perda de competitividade e uma redução expressiva no número de cooperativas de consumo em atividade nas décadas seguintes.\nEsse episódio é um exemplo concreto do que a pesquisa acadêmica do professor da disciplina chama de *equiparação*: o tratamento de uma cooperativa como se fosse uma sociedade empresarial comum, desconsiderando sua natureza própria — um dos mecanismos que, ao longo da história, dificultaram o desenvolvimento do cooperativismo no Brasil.",
+            "tags": [
+              "consumo",
+              "tributação",
+              "equiparação"
+            ]
+          },
+          {
+            "tipo": "referencia",
+            "titulo": "Conceito no glossário",
+            "base": "glossario",
+            "ids": [
+              "equiparacao",
+              "consumo"
+            ]
+          },
+          {
+            "tipo": "subtitulo",
+            "titulo": "Conheça algumas cooperativas de consumo"
+          },
+          {
+            "tipo": "cooperativa",
+            "titulo": "Coop",
+            "texto": "A Coop é a maior cooperativa de consumo da América Latina e uma das maiores redes de supermercados do Brasil, segundo o ranking da ABRAS. Ao longo de sua trajetória, tem se destacado não apenas pelo desempenho comercial, mas também pela realização de projetos sociais que reforçam seu compromisso com a comunidade.",
+            "links": [
+              {
+                "texto": "portalcoop.com.br",
+                "url": "https://www.portalcoop.com.br/"
+              }
+            ],
+            "tags": [
+              "consumo",
+              "cooperativas"
+            ]
+          },
+          {
+            "tipo": "cooperativa",
+            "titulo": "Coopeder",
+            "texto": "Idealizada por um grupo de servidores do Departamento de Estradas e Rodagem do Estado de Minas Gerais, a Coopeder segue o propósito de defender os interesses de seus associados, prezando pela transparência, ética e uma administração comprometida e eficiente.",
+            "links": [
+              {
+                "texto": "coopeder.org.br",
+                "url": "https://www.coopeder.org.br/"
+              }
+            ],
+            "tags": [
+              "consumo",
+              "cooperativas"
+            ]
+          }
+        ]
+      }
+    ],
+    "recursos": [
+      {
+        "titulo": "Pode Cooperar — Explorando o Cooperativismo de Consumo: conversa com os líderes da BBCOP",
+        "rotulo": "Podcast",
+        "url": "https://www.youtube.com/watch?v=tfkmKjG8X44",
+        "tags": [
+          "consumo",
+          "podcast"
+        ]
+      },
+      {
+        "titulo": "Coop: a experiência como diferencial na cooperativa de consumo",
+        "rotulo": "Podcast",
+        "url": "https://www.youtube.com/watch?v=Sjd-qxUcOR0",
+        "tags": [
+          "consumo",
+          "podcast"
+        ]
+      },
+      {
+        "titulo": "Programa do Cooperativismo — Episódio 2 — Tema Consumo",
+        "rotulo": "Vídeo",
+        "url": "https://www.youtube.com/watch?v=bI0jd68DxWA",
+        "tags": [
+          "consumo",
+          "vídeo"
+        ]
+      }
+    ],
+    "titulo": "Cooperativismo",
+    "rotulo": "Caderno de aula",
+    "complemento": "Aula 1",
+    "resumo": "Conceitos fundamentais, sociologia da cooperação, a origem do cooperativismo em Rochdale, o 5º princípio, o valor da autoajuda e o ramo consumo.",
+    "tags": [],
+    "buscar_tags": [
+      "conceitos",
+      "rochdale",
+      "consumo",
+      "educação cooperativa",
+      "autoajuda"
+    ],
+    "imagem": "",
+    "evidenciar": false
+  }
+]
