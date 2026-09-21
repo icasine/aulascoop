@@ -17,7 +17,8 @@
             "tags": [
               "conceitos",
               "cooperativismo"
-            ]
+            ],
+            "evidenciar": true
           },
           {
             "tipo": "card",
@@ -380,7 +381,7 @@
       }
     ],
     "titulo": "Cooperativismo",
-    "rotulo": "Caderno de aula",
+    "rotulo": "",
     "complemento": "Aula 1",
     "resumo": "Conceitos fundamentais, sociologia da cooperação, a origem do cooperativismo em Rochdale, o 5º princípio, o valor da autoajuda e o ramo consumo.",
     "tags": [],
